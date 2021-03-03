@@ -74,7 +74,7 @@ it listed the directories in my home directory
 
 Write the command that you used below:
 ----------
-
+clear
 
 
 ==========
